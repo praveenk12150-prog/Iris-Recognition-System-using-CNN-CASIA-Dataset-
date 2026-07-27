@@ -58,4 +58,4 @@ python src/Main.py
 ---
 
 ## Author
-Pravallika Maddala
+Praveen Kumar
