@@ -1,0 +1,21 @@
+# Dataset (do not push large data)
+CASIA1/
+
+# Model files
+model/
+*.h5
+*.pkl
+
+# Output files
+outputs/
+
+# Word docs
+*.docx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
